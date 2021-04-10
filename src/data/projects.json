@@ -1,0 +1,135 @@
+[
+    {
+        "name": "cifar",
+        "published": "February 2021",
+        "tech": "Node.js",
+        "url": "https://www.npmjs.com/package/cifar",
+        "description": "This is a simple secret word generator that produces pass codes that are easy to remember."
+    },
+    {
+        "name": "cifar-web",
+        "published": "March 2021",
+        "tech": "ReactJS",
+        "url": "https://cifar.iamlizu.com",
+        "description": "Deployment of cifar on web, made with ReactJS and Tailwind CSS."
+    },
+    {
+        "name": "Media Server",
+        "published": "September 2020",
+        "tech": "Raspberry Pi",
+        "url": "https://iamlizu.com/blog/media-server-using-raspberry-pi-with-samba-and-kodi/",
+        "description": "A python script handles USB mount/unmount. Samba helps creating NAS which results in a fine low-cost Media Server with Raspberry Pi."
+    },
+    {
+        "name": "wpdetect",
+        "published": "January 2020",
+        "tech": "Python",
+        "url": "https://pypi.org/project/wpdetect",
+        "description": "A WordPress detection tool for CLI, detects if a website is running WordPress."
+    },
+    {
+        "name": "harpies",
+        "published": "July 2020",
+        "tech": "Python",
+        "url": "https://pypi.org/project/harpies",
+        "description": "Makes it easier to generate link preview by pulling the required information."
+    },
+    {
+        "name": "Article Schema Generator",
+        "published": "October 2019",
+        "tech": "ReactJS",
+        "url": "https://asg.iamlizu.com",
+        "description": "A simple web application that generates schema in json-ld for web pages containing Article."
+    },
+    {
+        "name": "humous",
+        "published": "June 2020",
+        "tech": "Next.js",
+        "url": "https://github.com/IamLizu/humous",
+        "description": "A modern, simplified, SEO friendly blog application that lets focusing on work instead of maintaining the application."
+    },
+    {
+        "name": "lpier",
+        "published": "July 2020",
+        "tech": "Next.js",
+        "url": "https://lpier.iamlizu.com",
+        "description": "Next.js implementation of harpies."
+    },
+    {
+        "name": "image-buffer",
+        "published": "February 2021",
+        "tech": "Node.js",
+        "url": "https://www.npmjs.com/package/@iamlizu/image-buffer",
+        "description": "Converts binary buffer into base64 image. Usually helpful when displaying images from the database (saved as buffer) in front-end applications."
+    },
+    {
+        "name": "Portfolio",
+        "published": "August 2020",
+        "tech": "ReactJS",
+        "url": "https://github.com/IamLizu/portfolio",
+        "description": "The simplest portfolio application. Entering information in the json files, no need to change the hard code."
+    },
+    {
+        "name": "giorg",
+        "published": "May 2020",
+        "tech": "ReactJS",
+        "url": "https://github.com/IamLizu/giorg",
+        "description": "An organizational website template for GitHub organizations. Showcasing an organization has never been easier."
+    },
+    {
+        "name": "Article Schema Generator for Windows",
+        "published": "October 2019",
+        "tech": "C#",
+        "url": "https://iamlizu.com/tools/article-schema-generator/",
+        "description": "Windows version of Article Schema Generator."
+    },
+    {
+        "name": "twair",
+        "published": "September 2019",
+        "tech": "Python",
+        "url": "https://github.com/iamlizu/twair",
+        "description": "A simple twitter account information retriever that collects information using tweepy."
+    },
+    {
+        "name": "App Showcase",
+        "published": "March 2020",
+        "tech": "ReactJS",
+        "url": "https://apps.iamlizu.com",
+        "description": "An automated single page application that showcases projects and application fetching information from API."
+    },
+    {
+        "name": "uraiko",
+        "published": "July 2020",
+        "tech": "Python",
+        "url": "https://pypi.org/project/uraiko/",
+        "description": "Simplest url checker on earth!"
+    },
+    {
+        "name": "recipe-app",
+        "published": "August 2020",
+        "tech": "ReactJS",
+        "url": "https://github.com/IamLizu/recipe-app",
+        "description": "Lists recipes from src/shared/recipes.json. No need to alter code to add more recipes, updating the json file and rebuilding the app will do."
+    },
+    {
+        "name": "probable-parakeet",
+        "published": "April 2021",
+        "tech": "ReactJS",
+        "url": "https://github.com/IamLizu/probable-parakeet",
+        "description": "Another portfolio application, much simpler."
+    },
+    {
+        "name": "svelte-learning",
+        "published": "April 2020",
+        "tech": "Svelte",
+        "url": "https://github.com/IamLizu/svelte-learning",
+        "description": "A single page webpage for developers."
+    },
+    {
+        "name": "Meme Generator",
+        "published": "March 2020",
+        "tech": "Svelte",
+        "url": "https://meme-gen.iamlizu.com/",
+        "description": "A meme generator with random images."
+    }
+]
