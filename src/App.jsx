@@ -21,6 +21,25 @@ function App() {
             </header>
             <Projects />
             <Certificates />
+            <footer className="my-8 flex justify-center items-center gap-3">
+                <a
+                    href="https://iamlizu.com/blog/"
+                    target="blank"
+                    className="uppercase font-medium text-xs sm:text-base"
+                >
+                    Blog
+                </a>
+                <a href="https://github.com/IamLizu" target="blank">
+                    <img src="github.png" alt="GitHub Mark" width="30" />
+                </a>
+                <a
+                    href="https://www.linkedin.com/in/iamlizuofficial/"
+                    target="blank"
+                    className="uppercase font-medium text-xs sm:text-base"
+                >
+                    LinkedIn
+                </a>
+            </footer>
         </div>
     );
 }
