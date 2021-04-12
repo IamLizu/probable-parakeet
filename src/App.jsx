@@ -23,18 +23,16 @@ function App() {
             <Certificates />
             <footer className="my-8 flex justify-center items-center gap-3">
                 <a
-                    href="https://iamlizu.com/blog/"
-                    target="blank"
+                    href={pUser.blog}
                     className="uppercase font-medium text-xs sm:text-base"
                 >
                     Blog
                 </a>
-                <a href="https://github.com/IamLizu" target="blank">
+                <a href={pUser.github} target="blank">
                     <img src="github.png" alt="GitHub Mark" width="30" />
                 </a>
                 <a
-                    href="https://www.linkedin.com/in/iamlizuofficial/"
-                    target="blank"
+                    href={pUser.linkedIn}
                     className="uppercase font-medium text-xs sm:text-base"
                 >
                     LinkedIn
