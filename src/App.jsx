@@ -1,3 +1,4 @@
+import Certificates from "./components/Certificates";
 import Projects from "./components/Projects";
 import { user as pUser } from "./data/about";
 
@@ -19,6 +20,7 @@ function App() {
                 </h1>
             </header>
             <Projects />
+            <Certificates />
         </div>
     );
 }
